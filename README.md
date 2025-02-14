@@ -1,8 +1,7 @@
 # 2025-14-02-Modelo-de-machine-learning---Regressão
 
 # Contextualização:
-
-# O Dataset utilizado contempla uma base com  dados reais de 5.000 imóveis e 8 diferentes características para cada imóvel, tais como tamanho do imóvel, número de quartos, localização, entre outras
+O Dataset utilizado contempla uma base com  dados reais de 5.000 imóveis e 8 diferentes características para cada imóvel, tais como tamanho do imóvel, número de quartos, localização, entre outras
 
 # Premissas da análise:
 Analisar os dados para avaliar sua performance na predição de preços nunca vistos antes. Também fazer uma predição de um novo imóvel, demonstrando a aplicação em problemas do mundo real.
